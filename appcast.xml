@@ -7,7 +7,29 @@
         <language>en</language>
         
         <!-- Add new releases here -->
-        <!-- Releases will be automatically added by the release script -->
+        
+        <item>
+            <title>Version 0.0.1.444</title>
+            <sparkle:version>0.0.1.444</sparkle:version>
+            <sparkle:shortVersionString>0.0.1.444</sparkle:shortVersionString>
+            <pubDate>Sun, 20 Jul 2025 22:42:50 +0000</pubDate>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            
+            <description><![CDATA[
+                <h2>What's New in 0.0.1.444</h2>
+                <ul>
+                    <li>Fresh start with version 0.0.1</li>
+                    <li>Rebuilt distribution pipeline</li>
+                    <li>Notarized for macOS security</li>
+                </ul>
+            ]]></description>
+            
+            <enclosure 
+                url="https://github.com/leixusam/promptflow-updates/releases/download/v0.0.1.444/TextReplacer-0.0.1.444.dmg" 
+                sparkle:version="0.0.1.444"
+                length="2810708" 
+                type="application/octet-stream" />
+        </item>
         
     </channel>
 </rss>
