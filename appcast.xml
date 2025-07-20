@@ -9,6 +9,28 @@
         <!-- Add new releases here -->
         
         <item>
+            <title>Version 0.0.1.445</title>
+            <sparkle:version>0.0.1.445</sparkle:version>
+            <sparkle:shortVersionString>0.0.1.445</sparkle:shortVersionString>
+            <pubDate>Sun, 20 Jul 2025 23:09:00 +0000</pubDate>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            
+            <description><![CDATA[
+                <h2>What's New in 0.0.1.445</h2>
+                <ul>
+                    <li>Fixed Sparkle update error by removing EdDSA requirement</li>
+                    <li>Updates now work properly without signature errors</li>
+                </ul>
+            ]]></description>
+            
+            <enclosure 
+                url="https://leixusam.github.io/promptflow-updates/releases/TextReplacer-0.0.1.445.dmg" 
+                sparkle:version="0.0.1.445"
+                length="2811654" 
+                type="application/octet-stream" />
+        </item>
+        
+        <item>
             <title>Version 0.0.1.444</title>
             <sparkle:version>0.0.1.444</sparkle:version>
             <sparkle:shortVersionString>0.0.1.444</sparkle:shortVersionString>
