@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>PromptFlow Updates</title>
+        <link>https://leixusam.github.io/promptflow-updates/appcast.xml</link>
+        <description>PromptFlow update feed</description>
+        <language>en</language>
+        
+        <!-- Add new releases here -->
+        <!-- Releases will be automatically added by the release script -->
+        
+    </channel>
+</rss>
