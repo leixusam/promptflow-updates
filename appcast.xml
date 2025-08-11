@@ -9,6 +9,43 @@
         <!-- Add new releases here -->
 
         <item>
+            <title>Version 0.0.1.542</title>
+            <sparkle:version>0.0.1.542</sparkle:version>
+            <sparkle:shortVersionString>0.0.1.542</sparkle:shortVersionString>
+            <pubDate>Mon, 11 Aug 2025 05:58:28 +0000</pubDate>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            
+            <description><![CDATA[
+                <h2>What's New in 0.0.1.542</h2>
+                <ul>
+                    <li>Fix onboarding flow issues and layout problems</li>
+                    <li>WIP: Fix auth flow completion and improve accessibility detection</li>
+                    <li>WIP: Implement onboarding flow with navigation fixes</li>
+                    <li>docs: Add comprehensive authentication implementation documentation</li>
+                    <li>feat: Implement persistent authentication with automatic token refresh</li>
+                    <li>fix: Handle missing refresh tokens in PKCE authentication flow</li>
+                    <li>refactor: Deduplicate views by removing Modern variants and reorganizing</li>
+                    <li>security: Remove hardcoded credentials and implement secure configuration</li>
+                    <li>feat: Finalize professional DMG installer and automated release pipeline</li>
+                    <li>wip getting the dmg to work, lots of scripts, pre-baked is the correct one</li>
+                    <li>feat: Update Sparkle auto-update system and enhance security patterns</li>
+                    <li>security: Implement centralized Supabase configuration and enhance security</li>
+                    <li>fix: Resolve Sparkle framework loading issue in app bundle</li>
+                    <li>chore: Complete distribution system cleanup</li>
+                    <li>feat: comprehensive build system cleanup and organization</li>
+                    <li>Use macos-latest runner instead of macos-14 (billing issue)</li>
+                </ul>
+            ]]></description>
+            
+            <enclosure 
+                url="https://leixusam.github.io/promptflow-updates/releases/TextReplacer-0.0.1.542.dmg" 
+                sparkle:version="0.0.1.542"
+                length="3016261" 
+                type="application/octet-stream" />
+        </item>
+
+
+        <item>
             <title>Version 0.0.1.447</title>
             <sparkle:version>0.0.1.447</sparkle:version>
             <sparkle:shortVersionString>0.0.1.447</sparkle:shortVersionString>

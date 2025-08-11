@@ -7,6 +7,78 @@
         <language>en</language>
         
         <!-- Add new releases here -->
+
+        <item>
+            <title>Version 0.0.1.447</title>
+            <sparkle:version>0.0.1.447</sparkle:version>
+            <sparkle:shortVersionString>0.0.1.447</sparkle:shortVersionString>
+            <pubDate>Mon, 21 Jul 2025 04:02:04 +0000</pubDate>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            
+            <description><![CDATA[
+                <h2>What's New in 0.0.1.447</h2>
+                <ul>
+                    <li>wip getting the dmg to work, lots of scripts, pre-baked is the correct one</li>
+                    <li>feat: Update Sparkle auto-update system and enhance security patterns</li>
+                    <li>security: Implement centralized Supabase configuration and enhance security</li>
+                    <li>fix: Resolve Sparkle framework loading issue in app bundle</li>
+                    <li>chore: Complete distribution system cleanup</li>
+                    <li>feat: comprehensive build system cleanup and organization</li>
+                    <li>Use macos-latest runner instead of macos-14 (billing issue)</li>
+                </ul>
+            ]]></description>
+            
+            <enclosure 
+                url="https://leixusam.github.io/promptflow-updates/releases/TextReplacer-0.0.1.447.dmg" 
+                sparkle:version="0.0.1.447"
+                length="2942008" 
+                type="application/octet-stream" />
+        </item>
+
+        
+        <item>
+            <title>Version 0.0.1.446</title>
+            <sparkle:version>0.0.1.446</sparkle:version>
+            <sparkle:shortVersionString>0.0.1.446</sparkle:shortVersionString>
+            <pubDate>Sun, 20 Jul 2025 23:21:00 +0000</pubDate>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            
+            <description><![CDATA[
+                <h2>What's New in 0.0.1.446</h2>
+                <ul>
+                    <li>Additional fix for update availability</li>
+                    <li>Improved update mechanism</li>
+                </ul>
+            ]]></description>
+            
+            <enclosure 
+                url="https://leixusam.github.io/promptflow-updates/releases/TextReplacer-0.0.1.446.dmg" 
+                sparkle:version="0.0.1.446"
+                length="2811663" 
+                type="application/octet-stream" />
+        </item>
+        
+        <item>
+            <title>Version 0.0.1.445</title>
+            <sparkle:version>0.0.1.445</sparkle:version>
+            <sparkle:shortVersionString>0.0.1.445</sparkle:shortVersionString>
+            <pubDate>Sun, 20 Jul 2025 23:09:00 +0000</pubDate>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            
+            <description><![CDATA[
+                <h2>What's New in 0.0.1.445</h2>
+                <ul>
+                    <li>Fixed Sparkle update error by removing EdDSA requirement</li>
+                    <li>Updates now work properly without signature errors</li>
+                </ul>
+            ]]></description>
+            
+            <enclosure 
+                url="https://leixusam.github.io/promptflow-updates/releases/TextReplacer-0.0.1.445.dmg" 
+                sparkle:version="0.0.1.445"
+                length="2811654" 
+                type="application/octet-stream" />
+        </item>
         
         <item>
             <title>Version 0.0.1.444</title>
