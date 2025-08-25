@@ -9,6 +9,47 @@
         <!-- Add new releases here -->
 
         <item>
+            <title>Version 0.0.1.563</title>
+            <sparkle:version>0.0.1.563</sparkle:version>
+            <sparkle:shortVersionString>0.0.1.563</sparkle:shortVersionString>
+            <pubDate>Mon, 25 Aug 2025 17:38:30 +0000</pubDate>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            
+            <description><![CDATA[
+                <h2>What's New in 0.0.1.563</h2>
+                <ul>
+                    <li>Remove keyboard monitoring and attempt to fix beeping issue</li>
+                    <li>Rename app from TextReplacer/PromptFlow to Robin</li>
+                    <li>Update auth portal URL to custom domain</li>
+                    <li>Fix authentication issues to ensure users never need to re-login</li>
+                    <li>Add auto-unmount for TextReplacer volumes before DMG creation</li>
+                    <li>Fix auth session refresh and improve error handling</li>
+                    <li>Update build number to 545 after successful local build with deletion confirmation feature</li>
+                    <li>Add delete confirmation dialog to PromptsView</li>
+                    <li>docs: Update README with simplified release process</li>
+                    <li>feat: Auto-increment build number by default in release script</li>
+                    <li>ci: Disable automatic CI runs temporarily</li>
+                    <li>Add permalink URL system for latest releases</li>
+                    <li>Fix onboarding flow issues and layout problems</li>
+                    <li>WIP: Fix auth flow completion and improve accessibility detection</li>
+                    <li>WIP: Implement onboarding flow with navigation fixes</li>
+                    <li>docs: Add comprehensive authentication implementation documentation</li>
+                    <li>feat: Implement persistent authentication with automatic token refresh</li>
+                    <li>fix: Handle missing refresh tokens in PKCE authentication flow</li>
+                    <li>refactor: Deduplicate views by removing Modern variants and reorganizing</li>
+                    <li>security: Remove hardcoded credentials and implement secure configuration</li>
+                </ul>
+            ]]></description>
+            
+            <enclosure 
+                url="https://leixusam.github.io/promptflow-updates/releases/Robin-0.0.1.563.dmg" 
+                sparkle:version="0.0.1.563"
+                length="3143800" 
+                type="application/octet-stream" />
+        </item>
+
+
+        <item>
             <title>Version 0.0.1.556</title>
             <sparkle:version>0.0.1.556</sparkle:version>
             <sparkle:shortVersionString>0.0.1.556</sparkle:shortVersionString>
