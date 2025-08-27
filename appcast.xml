@@ -9,6 +9,47 @@
         <!-- Add new releases here -->
 
         <item>
+            <title>Version 0.0.1.662</title>
+            <sparkle:version>0.0.1.662</sparkle:version>
+            <sparkle:shortVersionString>0.0.1.662</sparkle:shortVersionString>
+            <pubDate>Wed, 27 Aug 2025 06:09:16 +0000</pubDate>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            
+            <description><![CDATA[
+                <h2>What's New in 0.0.1.662</h2>
+                <ul>
+                    <li>feat: Add keyboard shortcuts and clean up unused UI components</li>
+                    <li>feat: Breakthrough in macOS titlebar header implementation</li>
+                    <li>WIP: calculating offset dynamically, hard coding -300</li>
+                    <li>WIP: calculating offset dynamically</li>
+                    <li>WIP: using chrome and surfaces but worked for first time</li>
+                    <li>WIP: using chrome and surfaces but worked for first time</li>
+                    <li>WIP: using chrome and surfaces</li>
+                    <li>WIP: got the header background to work, but traffic lights not centered</li>
+                    <li>WIP: Implement NSToolbar approach for traffic light alignment</li>
+                    <li>Add security documentation and update gitignore</li>
+                    <li>WIP: v1 UI major refactor of mac os app's main interface</li>
+                    <li>Update settings UI and search panel; integrate onboarding changes</li>
+                    <li>Implement comprehensive security hardening</li>
+                    <li>Remove keyboard monitoring and attempt to fix beeping issue</li>
+                    <li>Rename app from TextReplacer/PromptFlow to Robin</li>
+                    <li>Update auth portal URL to custom domain</li>
+                    <li>Fix authentication issues to ensure users never need to re-login</li>
+                    <li>Add auto-unmount for TextReplacer volumes before DMG creation</li>
+                    <li>Fix auth session refresh and improve error handling</li>
+                    <li>Update build number to 545 after successful local build with deletion confirmation feature</li>
+                </ul>
+            ]]></description>
+            
+            <enclosure 
+                url="https://leixusam.github.io/promptflow-updates/releases/Robin-0.0.1.662.dmg" 
+                sparkle:version="0.0.1.662"
+                length="3156093" 
+                type="application/octet-stream" />
+        </item>
+
+
+        <item>
             <title>Version 0.0.1.569</title>
             <sparkle:version>0.0.1.569</sparkle:version>
             <sparkle:shortVersionString>0.0.1.569</sparkle:shortVersionString>
